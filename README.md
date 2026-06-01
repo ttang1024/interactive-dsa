@@ -4,19 +4,11 @@ An interactive web app for learning **Data Structures & Algorithms** through ste
 
 Visit: https://dsa-six-phi.vercel.app
 
-## Screenshots
+## Demos
 
-**Quick Sort** — partitioning around a pivot, with bars color-coded by state (pivot, comparing, swapping, sorted).
+**Bubble Sort** — Repeatedly compares adjacent elements and swaps them if out of order. Each pass "bubbles" the largest unsorted element to its correct position.
 
-![Quick Sort visualization](demos/quick_sort.png)
-
-**Binary Search** — searching a sorted array by halving the range, with the matched element and complexity table shown.
-
-![Binary Search visualization](demos/binary_search.png)
-
-**Greedy Algorithm** — coin-change demo that repeatedly picks the largest coin that fits the remaining amount.
-
-![Greedy Algorithm visualization](demos/greedy.png)
+![Bubble Sort visualization](demos/bubble_sort.gif)
 
 ## Features
 
